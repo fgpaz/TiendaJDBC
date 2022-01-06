@@ -9,11 +9,11 @@
   
   Realizar un menú en java a través del cual se permita elegir qué consulta se desea
   realizar. Las consultas a realizar sobre la BD son las siguientes:
-   a) Lista el nombre de todos los productos que hay en la tabla producto.
-   b) Lista los nombres y los precios de todos los productos de la tabla producto. 
-   c) Listar aquellos productos que su precio esté entre 120 y 202.
-   d) Buscar y listar todos los Portátiles de la tabla producto. 
-   e) Listar el nombre y el precio del producto más barato.
-   f) Ingresar un producto a la base de datos.
-   g) Ingresar un fabricante a la base de datos.
-   h) Editar un producto con datos a elección.
+   1. Lista el nombre de todos los productos que hay en la tabla producto.
+   2. Lista los nombres y los precios de todos los productos de la tabla producto. 
+   3. Listar aquellos productos que su precio esté entre 120 y 202.
+   4. Buscar y listar todos los Portátiles de la tabla producto. 
+   5. Listar el nombre y el precio del producto más barato.
+   6. Ingresar un producto a la base de datos.
+   7. Ingresar un fabricante a la base de datos.
+   8. Editar un producto con datos a elección.
