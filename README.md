@@ -4,6 +4,7 @@
   productos. El objetivo es realizar consultas para saber el stock de ciertos productos 
   o que productos hay, etc. Utilizando el lenguaje JAVA, una base de datos MySQL y
   JDBC para realizar la ejecución de operaciones sobre la base de datos (BD)"
+  
   ![image](https://user-images.githubusercontent.com/21107178/148407035-da59b5b8-0212-4789-8cdd-9ec0738bc79b.png)
   
   Realizar un menú en java a través del cual se permita elegir qué consulta se desea
