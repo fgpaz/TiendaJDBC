@@ -17,3 +17,8 @@
    6. Ingresar un producto a la base de datos.
    7. Ingresar un fabricante a la base de datos.
    8. Editar un producto con datos a elección.
+
+### Instrucciones para ejecución:
+ 1. Descargar el proyecto.
+ 2. Ejecutar query en IDE de BD de preferencia.
+ 3. Ejecutar Main del proyecto en IDE (preferentemente Netbeans).
